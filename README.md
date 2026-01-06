@@ -8,6 +8,8 @@ Finally, I am eager to learn more about Python and have done a little bit of int
 
 My goal with this is to display some of my work that provided interesting challenges and learning opportunities, to show how versatile and tenacious I can be in problem solving. 
 
+If you are interested, please see my [resume](../Pam_Courter_Data_Analyst_Resume.docx) and a pretty nice [letter of recommendation](../Pam-Letter_of_Recommendation.docx) from my previous supervisor and mentor, whom I have worked closely with for many years. 
+
 
 <!--
 **pamcourter/pamcourter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
