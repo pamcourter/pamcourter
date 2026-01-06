@@ -11,7 +11,7 @@ My goal with this is to display some of my work that provided interesting challe
 
 If you are interested, please see my [resume](/Recs/Pam_Courter_Data_Analyst_Resume.pdf) and a pretty nice [letter of recommendation](/Recs/Pam-Letter_of_Recommendation.pdf) from my previous supervisor and mentor, whom I have worked closely with for many years. 
 
-![Pam Courter, Data Analyst image](profselfie_smallest.png)
+
 <!--
 **pamcourter/pamcourter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
