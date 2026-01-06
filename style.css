@@ -1,0 +1,7 @@
+body {
+    background-image: url('nightsun.jpg');
+    background-size: cover; /* This scales the image to cover the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Fixes the image position during scroll */
+    background-position: center; /* Centers the image */
+}
