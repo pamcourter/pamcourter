@@ -14,8 +14,8 @@ My goal here is to display some of my work that provided interesting challenges 
 
 If you are interested, please see my [resume](/Recs/Pam_Courter_Data_Analyst_Resume.pdf) and a pretty nice [letter of recommendation](/Recs/Pam-Letter_of_Recommendation.pdf) from my previous supervisor and mentor, whom I have worked closely with for many years. 
 
-If you would like to contact me with questions I would be happy to have a chat. 
-Email: pcourter81@gmail.com
+If you would like to contact me with questions I would be happy to have a chat. \
+Email: pcourter81@gmail.com \
 Phone: 801-663-0303
 
 Thank you for taking the time to get to know my professional work. 
