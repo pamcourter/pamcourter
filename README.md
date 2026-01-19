@@ -8,7 +8,7 @@ My goal here is to display some of my work that provided interesting challenges 
 
 - [Visualizations Portfolio] Nothing  here yet. I am also excited to be learning more about visualizing data in Excel and PowerBI, and eventually Tableau so I will be posting those here. 
 
-- [Python Portfolio](https://pamcourter.github.io/Python-portfolio/). I am eager to learn more about Python and have done a little bit of introductory stuff with it. I will post my favorite projects here. 
+- [Python Portfolio](https://pamcourter.github.io/Python-Portfolio/) . I am eager to learn more about Python and have done a little bit of introductory stuff with it. I will post my favorite projects here. 
 
 
 
