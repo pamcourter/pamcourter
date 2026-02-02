@@ -6,7 +6,7 @@ My goal here is to display some of my work that provided interesting challenges 
 
 - [SQL/ SSRS Portfolio](https://pamcourter.github.io/SQL-Portfolio/). I've done so many different projects that many of my accomplishments seem mundane to me, but here are some of the projects I've worked on this past year in between campaign and client requests and project maintenance that were a bit more challenging.
 
-- [Visualizations Portfolio] Nothing  here yet. I am also excited to be learning more about visualizing data in Excel and PowerBI, and eventually Tableau so I will be posting those here. 
+- [Visualizations Portfolio](https://pamcourter.github.io/Data-Vizualization/) Nothing  here yet. I am also excited to be learning more about visualizing data in Excel and PowerBI, and eventually Tableau so I will be posting those here. 
 
 - [Python Portfolio](https://pamcourter.github.io/Python-Portfolio/) . I am eager to learn more about Python and have done a little bit of introductory stuff with it. I will post my favorite projects here. 
 
